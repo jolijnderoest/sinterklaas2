@@ -1,0 +1,76 @@
+        header {
+                background-color:pink;
+                color:green;
+                width: 50%;
+                height: 50px;
+                }
+
+        table {
+                border: 5px solid black;
+                width: 70%;
+                border-collapse: collapse;
+                }
+
+        .rood  { background-color: red; }
+        .kruidnoten { background-color: yellow; }
+
+        .geel  { background-color: yellow }
+
+        .purple { background-color: purple; }
+        .pepernoten { background-color: pink; }
+
+        .green { background-color: green; }
+
+        .pink   { background-color: pink; }
+        .marsepein { background-color: green; }
+
+        .blue   { background-color: blue; }
+
+        .brown  { background-color: brown; }
+        .speculaas { background-color: blue; }
+
+        .aqua   { background-color: aqua; }
+
+        .deeppink   { background-color: deeppink; }
+        .taaitaai { background-color: goldenrod; }
+
+        .crimson   { background-color: crimson; }
+
+        .goldenrod  { background-color: goldenrod; }
+        .banketletter { background-color: silver; }
+
+        .tan   { background-color: tan; }
+
+        .yellowgreen   { background-color: yellowgreen; }
+        .schuimpje { background-color: plum; }
+
+        .hotpink   { background-color: hotpink; }
+
+        .silver   { background-color: silver; }
+        .gevulde speculaas { background-color: hotpink; }
+
+        .plum   { background-color: plum; }
+
+        img {
+        border: 8px solid darkred;
+        width: 150px;
+        height: 150px;
+        }
+
+        td {
+                border: 2px solid white;
+                width: 150px;
+                height: 150px;
+                text-align: center;
+                vertical-align: middle;
+                }
+                
+        
+        
+        footer {
+                background-color:pink;
+                color: blue;    
+                width: 50%;
+                height: 50px;
+                }
+        
